@@ -19,7 +19,7 @@ Pour pouvoir suivre cet atelier en toute tranquilité, il vous faudra :
 - avoir une connaissance basique de Git,
 - avoir votre propre compte GitHub.
 
-## 1. Exercice commun \[In Progress]
+## 1. Exercice commun \[Complete]
 
 ### 1.1. Environnement de développement
 
